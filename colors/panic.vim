@@ -18,7 +18,7 @@ endif
 let g:colors_name = "panic"
 
 hi Cursor ctermfg=24 ctermbg=231 cterm=NONE guifg=#7F4EFE guibg=#ffffff gui=NONE
-hi Visual ctermfg=NONE ctermbg=241 cterm=NONE guifg=NONE guibg=#0C151E gui=NONE
+hi Visual ctermfg=NONE ctermbg=241 cterm=NONE guifg=NONE guibg=#222240 gui=NONE
 hi CursorLine ctermbg=234 cterm=NONE guifg=NONE guibg=#0C151E gui=NONE
 hi CursorColumn ctermbg=234 cterm=NONE guifg=NONE guibg=#0C151E gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#3d3f49 gui=NONE
@@ -30,7 +30,7 @@ hi StatusLineNC ctermfg=231 ctermbg=236 cterm=NONE guifg=#FFFFFF guibg=#64666d g
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#0C151E gui=NONE
 hi IncSearch ctermfg=24 ctermbg=178 cterm=NONE guifg=#0C151E guibg=#FFCC4B gui=NONE
-hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
+hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=#333333 gui=NONE
 hi Directory ctermfg=56 ctermbg=NONE cterm=NONE guifg=#7F4EFE guibg=NONE gui=NONE
 hi Folded ctermfg=24 ctermbg=235 cterm=NONE guifg=#7F4EFE guibg=#0C151E gui=NONE
 hi SignColumn ctermfg=246 ctermbg=235 cterm=NONE guifg=#909194 guibg=#0C151E gui=NONE
